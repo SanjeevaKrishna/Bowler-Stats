@@ -1,6 +1,15 @@
 {
   "matches": [
     {
+      "matchId": "rr-vs-csk-2026-03-30",
+      "status": "completed",
+      "team1": "RR",
+      "team2": "CSK",
+      "date": "2026-03-30",
+      "result": "RR WON BY 8 WICKETS",
+      "file": "rr-vs-csk-2026-03-30.json"
+    },
+    {
       "matchId": "mi-vs-kkr-2026-03-29",
       "status": "completed",
       "team1": "MI",
