@@ -1,0 +1,69 @@
+{
+  "matchId": "rr-vs-csk-2026-03-30",
+  "status": "completed",
+  "team1": "RR",
+  "team2": "CSK",
+  "venue": "Barsapara Stadium, Guwahati",
+  "date": "2026-03-30",
+  "result": "RR WON BY 8 Wickets",
+  "innings": [
+    {
+      "battingTeam": "CSK",
+      "bowlingTeam": "RR",
+      "totalRuns": 127,
+      "wickets": 10,
+      "commentary": "CSK Struggled alot by RR Bowling Attack.We can see how not having Dhoni can Impact the Match Clearly.",
+      "overs": [
+        { "over": 1,  "runs": 5, "wickets": 0, "bowler": "Jofra Archer" },
+        { "over": 2,  "runs": 9,  "wickets": 1, "bowler": "Nandre Burger" },
+        { "over": 3,  "runs": 5, "wickets": 2, "bowler": "Nandre Burger" },
+        { "over": 4,  "runs": 3,  "wickets": 0, "bowler": "Jofra Archer" },
+        { "over": 5,  "runs": 10,  "wickets": 0, "bowler": "Sandeep Sharma" },
+        { "over": 6,  "runs": 6, "wickets": 1, "bowler": "Sandeep Sharma" },
+        { "over": 7,  "runs": 10,  "wickets": 0, "bowler": "Brijesh Sharma" },
+        { "over": 8,  "runs": 3,  "wickets": 1, "bowler": "Brijesh Sharma" },
+        { "over": 9,  "runs": 5, "wickets": 0, "bowler": "Ravindra Jadeja" },
+        { "over": 10, "runs": 1,  "wickets": 1, "bowler": "Ravindra Jadeja" },
+        { "over": 11, "runs": 12,  "wickets": 0, "bowler": "Ravindra Jadeja" },
+        { "over": 12, "runs": 5, "wickets": 0, "bowler": "Brijesh Sharma" },
+        { "over": 13, "runs": 8,  "wickets": 1, "bowler": "Jofra Archer" },
+        { "over": 14, "runs": 4, "wickets": 0, "bowler": "Ravi Bishnoi" },
+        { "over": 15, "runs": 7,  "wickets": 0, "bowler": "Ravi Bishnoi" },
+        { "over": 16, "runs": 1, "wickets": 1, "bowler": "Ravi Bishnoi" },
+        { "over": 17, "runs": 5,  "wickets": 0, "bowler": "Sandeep Sharma" },
+        { "over": 18, "runs": 9, "wickets": 0, "bowler": "Ravi Bishnoi" },
+        { "over": 19, "runs": 10,  "wickets": 0, "bowler": "Nandre Burger" },
+        { "over": 20, "runs": 9, "wickets": 1, "bowler": "Sandeep Sharma" }
+      ]
+    },
+    {
+      "battingTeam": "RR",
+      "bowlingTeam": "CSK",
+      "totalRuns": 128,
+      "wickets": 2,
+      "commentary": "CSK Bowlers tried very Hard to  defend this low score but however,RR won the Match in 13 overs.",
+      "overs": [
+        { "over": 1,  "runs": 12, "wickets": 0, "bowler": "Khaleel Ahmed" },
+        { "over": 2,  "runs": 10, "wickets": 0, "bowler": "Matt Henry" },
+        { "over": 3,  "runs": 12,  "wickets": 0, "bowler": "Khaleel Ahmed" },
+        { "over": 4,  "runs": 13,  "wickets": 0, "bowler": "Matt Henry" },
+        { "over": 5,  "runs": 14, "wickets": 0, "bowler": "Khaleel Ahmed" },
+        { "over": 6,  "runs": 13, "wickets": 0, "bowler": "Noor Ahmed" },
+        { "over": 7,  "runs": 3,  "wickets": 1, "bowler": "Anshul Kamboj" },
+        { "over": 8,  "runs": 14,  "wickets": 0, "bowler": "Jamie Overton" },
+        { "over": 9,  "runs": 8, "wickets": 1, "bowler": "Anshul Kamboj" },
+        { "over": 10, "runs": 11,  "wickets": 0, "bowler": "Noor Ahmed" },
+        { "over": 11, "runs": 5,  "wickets": 0, "bowler": "Anshul Kamboj" },
+        { "over": 12, "runs": 12, "wickets": 0, "bowler": "Matt Henry" },
+        { "over": 13, "runs": 1,  "wickets": 0, "bowler": "Matt Henry" },
+        { "over": 14, "runs": 0, "wickets": 0, "bowler": "End" },
+        { "over": 15, "runs": 0,  "wickets": 0, "bowler": "End" },
+        { "over": 16, "runs": 0, "wickets": 0, "bowler": "End" },
+        { "over": 17, "runs": 0,  "wickets": 0, "bowler": "End" },
+        { "over": 18, "runs": 0, "wickets": 0, "bowler": "End" },
+        { "over": 19, "runs": 0, "wickets": 0, "bowler": "End" },
+        { "over": 20, "runs": 0, "wickets": 0, "bowler": "End" }
+      ]
+    }
+  ]
+}
