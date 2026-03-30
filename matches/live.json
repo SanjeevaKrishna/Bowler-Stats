@@ -1,16 +1,16 @@
 {
-  "matchId": "rcb-vs-mi-2025-04-15",
+  "matchId": "kkr-vs-pbks-2026-03-30",
   "status": "live",
-  "team1": "RCB",
-  "team2": "MI",
-  "venue": "M. Chinnaswamy Stadium, Bangalore",
-  "date": "2025-04-15",
+  "team1": "KKR",
+  "team2": "PBKS",
+  "venue": "Punjab",
+  "date": "2026-03-30",
   "result": "",
   "innings": [
     {
-      "battingTeam": "MI",
-      "bowlingTeam": "RCB",
-      "commentary": "RCB started brilliantly with Bhuvneshwar getting early movement. Hazlewood was economical in the middle overs. Death bowling was tight.",
+      "battingTeam": "KKR",
+      "bowlingTeam": "PBKS",
+      "commentary": "PBKS started brilliantly with Bhuvneshwar getting early movement. Hazlewood was economical in the middle overs. Death bowling was tight.",
       "overs": [
         { "over": 1,  "runs": 12, "wickets": 0, "bowler": "Bhuvneshwar Kumar" },
         { "over": 2,  "runs": 15, "wickets": 1, "bowler": "Krunal Pandya" },
