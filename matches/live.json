@@ -22,6 +22,35 @@
         { "over": 8,  "runs": 7,  "wickets": 0, "bowler": "Vicky" },
         { "over": 9,  "runs": 13, "wickets": 0, "bowler": "Hazlewood" },
         { "over": 10, "runs": 10, "wickets": 1, "bowler": "Bhuvneshwar Kumar" }
+       ]
+    },
+    {
+      "battingTeam": "RCB",
+      "bowlingTeam": "MI",
+      "totalRuns": 190,
+      "wickets": 4,
+      "commentary": "MI bowling struggled against RCB's aggressive start. Jasprit Bumrah was the standout bowler taking 2 wickets. RCB chased the total comfortably with 18 runs to spare.",
+      "overs": [
+        { "over": 1,  "runs": 14, "wickets": 1, "bowler": "Jasprit Bumrah" },
+        { "over": 2,  "runs": 10, "wickets": 0, "bowler": "Piyush Chawla" },
+        { "over": 3,  "runs": 12, "wickets": 0, "bowler": "Tim David" },
+        { "over": 4,  "runs": 8,  "wickets": 0, "bowler": "Jasprit Bumrah" },
+        { "over": 5,  "runs": 9,  "wickets": 1, "bowler": "Piyush Chawla" },
+        { "over": 6,  "runs": 16, "wickets": 0, "bowler": "Tim David" },
+        { "over": 7,  "runs": 11, "wickets": 0, "bowler": "Jasprit Bumrah" },
+        { "over": 8,  "runs": 8,  "wickets": 0, "bowler": "Piyush Chawla" },
+        { "over": 9,  "runs": 13, "wickets": 0, "bowler": "Tim David" },
+        { "over": 10, "runs": 9,  "wickets": 1, "bowler": "Jasprit Bumrah" },
+        { "over": 11, "runs": 10, "wickets": 0, "bowler": "Piyush Chawla" },
+        { "over": 12, "runs": 8,  "wickets": 0, "bowler": "Tim David" },
+        { "over": 13, "runs": 12, "wickets": 0, "bowler": "Jasprit Bumrah" },
+        { "over": 14, "runs": 9,  "wickets": 0, "bowler": "Piyush Chawla" },
+        { "over": 15, "runs": 11, "wickets": 0, "bowler": "Tim David" },
+        { "over": 16, "runs": 8,  "wickets": 1, "bowler": "Jasprit Bumrah" },
+        { "over": 17, "runs": 10, "wickets": 0, "bowler": "Piyush Chawla" },
+        { "over": 18, "runs": 12, "wickets": 0, "bowler": "Tim David" },
+        { "over": 19, "runs": 9,  "wickets": 0, "bowler": "Jasprit Bumrah" },
+        { "over": 20, "runs": 11, "wickets": 0, "bowler": "Piyush Chawla" }
       ]
     }
   ]
