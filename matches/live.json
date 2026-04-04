@@ -1,56 +1,66 @@
 {
-  "matchId": "kkr-vs-pbks-2026-03-30",
+  "matchId": "mi-vs-dc-2026-04-04",
   "status": "live",
-  "team1": "KKR",
-  "team2": "PBKS",
-  "venue": "Punjab",
-  "date": "2026-03-30",
+  "team1": "MI",
+  "team2": "DC",
+  "venue": "Arun Jaitley Stadium, Delhi",
+  "date": "2026-04-04",
   "result": "",
   "innings": [
     {
-      "battingTeam": "KKR",
-      "bowlingTeam": "PBKS",
-      "commentary": "PBKS started brilliantly with Bhuvneshwar getting early movement. Hazlewood was economical in the middle overs. Death bowling was tight.",
+      "battingTeam": "MI",
+      "bowlingTeam": "DC",
+      "commentary": "DC Bowlers Bowled very well and restricted to 162 score. MI Batters failed to score above 180 which is referenced to safe score to Defend.",
       "overs": [
-        { "over": 1,  "runs": 12, "wickets": 0, "bowler": "Bhuvneshwar Kumar" },
-        { "over": 2,  "runs": 15, "wickets": 1, "bowler": "Krunal Pandya" },
-        { "over": 3,  "runs": 8,  "wickets": 0, "bowler": "Swapnil Singh" },
-        { "over": 4,  "runs": 12, "wickets": 0, "bowler": "Bhuvneshwar Kumar" },
-        { "over": 5,  "runs": 13, "wickets": 1, "bowler": "Hazlewood" },
-        { "over": 6,  "runs": 19, "wickets": 0, "bowler": "Krunal Pandya" },
-        { "over": 7,  "runs": 9,  "wickets": 1, "bowler": "Swapnil Singh" },
-        { "over": 8,  "runs": 7,  "wickets": 0, "bowler": "Vicky" },
-        { "over": 9,  "runs": 13, "wickets": 0, "bowler": "Hazlewood" },
-        { "over": 10, "runs": 10, "wickets": 1, "bowler": "Bhuvneshwar Kumar" }
+        { "over": 1,  "runs": 8, "wickets": 0, "bowler": "Mukesh Kumar" },
+        { "over": 2,  "runs": 10, "wickets": 0, "bowler": "Lungi Ngidi" },
+        { "over": 3,  "runs": 4,  "wickets": 2, "bowler": "T.Natarajan" },
+        { "over": 4,  "runs": 3, "wickets": 0, "bowler": "Axar Pael" },
+        { "over": 5,  "runs": 11, "wickets": 0, "bowler": "Vipraj Nigam" },
+        { "over": 6,  "runs": 5, "wickets": 0, "bowler": "Lungi Ngidi" },
+        { "over": 7,  "runs": 11,  "wickets": 0, "bowler": "Vipraj Nigam" },
+        { "over": 8,  "runs": 16,  "wickets": 0, "bowler": "Axar Pael" },
+        { "over": 9,  "runs": 3, "wickets": 1, "bowler": "Axar Pael" },
+        { "over": 10, "runs": 9, "wickets": 0, "bowler": "Kuldeep Yadav" }
+        { "over": 11, "runs": 5, "wickets": 1, "bowler": "Vipraj Nigam" }
+        { "over": 12, "runs": 7, "wickets": 0, "bowler": "T.Natarajan" }
+        { "over": 13, "runs": 8, "wickets": 0, "bowler": "Kuldeep Yadav" }
+        { "over": 14, "runs": 6, "wickets": 0, "bowler": "T.Natarajan" }
+        { "over": 15, "runs": 16, "wickets": 0, "bowler": "Lungi Ngidi" }
+        { "over": 16, "runs": 3, "wickets": 1, "bowler": "Lungi Ngidi" }
+        { "over": 17, "runs": 14, "wickets": 0, "bowler": "T.Natarajan" }
+        { "over": 18, "runs": 8, "wickets": 0, "bowler": "Lungi Ngidi" }
+        { "over": 19, "runs": 7, "wickets": 1, "bowler": "T.Natarajan" }
+        { "over": 20, "runs": 14, "wickets": 0, "bowler": "Mukesh Kumar" }
        ]
     },
     {
-      "battingTeam": "RCB",
+      "battingTeam": "DC",
       "bowlingTeam": "MI",
-      "totalRuns": 190,
-      "wickets": 4,
-      "commentary": "MI bowling struggled against RCB's aggressive start. Jasprit Bumrah was the standout bowler taking 2 wickets. RCB chased the total comfortably with 18 runs to spare.",
+      "totalRuns": 0,
+      "wickets": 0,
+      "commentary": "",
       "overs": [
-        { "over": 1,  "runs": 14, "wickets": 1, "bowler": "Jasprit Bumrah" },
-        { "over": 2,  "runs": 10, "wickets": 0, "bowler": "Piyush Chawla" },
-        { "over": 3,  "runs": 12, "wickets": 0, "bowler": "Tim David" },
-        { "over": 4,  "runs": 8,  "wickets": 0, "bowler": "Jasprit Bumrah" },
-        { "over": 5,  "runs": 9,  "wickets": 1, "bowler": "Piyush Chawla" },
-        { "over": 6,  "runs": 16, "wickets": 0, "bowler": "Tim David" },
-        { "over": 7,  "runs": 11, "wickets": 0, "bowler": "Jasprit Bumrah" },
-        { "over": 8,  "runs": 8,  "wickets": 0, "bowler": "Piyush Chawla" },
-        { "over": 9,  "runs": 13, "wickets": 0, "bowler": "Tim David" },
-        { "over": 10, "runs": 9,  "wickets": 1, "bowler": "Jasprit Bumrah" },
-        { "over": 11, "runs": 10, "wickets": 0, "bowler": "Piyush Chawla" },
-        { "over": 12, "runs": 8,  "wickets": 0, "bowler": "Tim David" },
-        { "over": 13, "runs": 12, "wickets": 0, "bowler": "Jasprit Bumrah" },
-        { "over": 14, "runs": 9,  "wickets": 0, "bowler": "Piyush Chawla" },
-        { "over": 15, "runs": 11, "wickets": 0, "bowler": "Tim David" },
-        { "over": 16, "runs": 8,  "wickets": 1, "bowler": "Jasprit Bumrah" },
-        { "over": 17, "runs": 10, "wickets": 0, "bowler": "Piyush Chawla" },
-        { "over": 18, "runs": 12, "wickets": 0, "bowler": "Tim David" },
-        { "over": 19, "runs": 9,  "wickets": 0, "bowler": "Jasprit Bumrah" },
-        { "over": 20, "runs": 11, "wickets": 0, "bowler": "Piyush Chawla" }
+        { "over": 1,  "runs": 0, "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 2,  "runs": 0, "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 3,  "runs": 0, "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 4,  "runs": 0,  "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 5,  "runs": 0,  "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 6,  "runs": 0, "wickets": 0, "bowler": "Not Bowledd" },
+        { "over": 7,  "runs": 0, "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 8,  "runs": 0,  "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 9,  "runs": 0, "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 10, "runs": 0,  "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 11, "runs": 0, "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 12, "runs": 0,  "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 13, "runs": 0, "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 14, "runs": 0,  "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 15, "runs": 0, "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 16, "runs": 0,  "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 17, "runs": 0, "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 18, "runs": 0, "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 19, "runs": 0,  "wickets": 0, "bowler": "Not Bowled" },
+        { "over": 20, "runs": 0, "wickets": 0, "bowler": "Not Bowled" }
       ]
     }
   ]
