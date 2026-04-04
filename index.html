@@ -140,6 +140,26 @@ footer{background:var(--surface);border-top:1px solid var(--border);padding:20px
   .stat-box:nth-child(3){border-top:1px solid var(--border)}
   .hero-pills{gap:6px}
 }
+  .ad-carousel {
+  overflow: hidden;
+  width: 100%;
+  margin: 20px 0;
+}
+
+.ad-track {
+  display: flex;
+  animation: scrollAds 50s linear infinite;
+}
+
+.ad-slide {
+  min-width: 100%;
+  text-align: center;
+}
+
+@keyframes scrollAds {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-300%); }
+}
 </style>
 </head>
 <body>
@@ -168,6 +188,27 @@ footer{background:var(--surface);border-top:1px solid var(--border);padding:20px
 
 <main>
   <div class="ad-box">Advertisement</div>
+   <!-- Ad Carousel -->
+<div class="ad-carousel">
+  <div class="ad-track">
+
+    <div class="ad-slide">
+      <img src="photos\zepto ad1.jpeg.jpeg" 
+           alt="Ad 1" style="width:100%; max-height:200px;">
+    </div>
+
+    <div class="ad-slide">
+      <img src="photos\zepto ad2.jpeg.jpeg" 
+           alt="Ad 2" style="width:100%; max-height:200px;">
+    </div>
+
+    <div class="ad-slide">
+      <img src="photos\zepto ad3.jpeg.jpeg" 
+           alt="Ad 3" style="width:100%; max-height:200px;">
+    </div>
+
+  </div>
+</div>
 
   <!-- LIVE MATCH -->
   <div id="live-section"></div>
