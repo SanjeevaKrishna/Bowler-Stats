@@ -5,14 +5,14 @@
   "team2": "LSG",
   "venue": "Rajiv Gandhi International Stadium,Hyderabad",
   "date": "2026-04-05",
-  "result": " ",
+  "result": "",
   "innings": [
     {
       "battingTeam": "SRH",
       "bowlingTeam": "LSG",
       "totalRuns": 8,
       "wickets": 1,
-      "commentary":"",
+      "commentary":"LSG is Bowling very Well",
       
       "overs": [
         { "over": 1,  "runs": 1, "wickets": 1, "bowler": "Mohammed Shami" },
