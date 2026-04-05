@@ -5,7 +5,7 @@
   "team2": "LSG",
   "venue": "Rajiv Gandhi International Stadium,Hyderabad",
   "date": "2026-04-05",
-  "result": "",
+  "result": " ",
   "innings": [
     {
       "battingTeam": "SRH",
@@ -17,7 +17,7 @@
       "overs": [
         { "over": 1,  "runs": 1, "wickets": 1, "bowler": "Mohammed Shami" },
         { "over": 2,  "runs": 7,  "wickets": 0, "bowler": "D.Rathi" },
-        { "over": 3,  "runs": 4, "wickets": 2, "bowler": "Mohammd Shami" },
+        { "over": 3,  "runs": 4, "wickets": 2, "bowler": "Mohammed Shami" },
         { "over": 4,  "runs": 0,  "wickets": 0, "bowler": "Axar Patel" },
         { "over": 5,  "runs": 0,  "wickets": 0, "bowler": "Not Completed" },
         { "over": 6,  "runs": 0, "wickets": 0, "bowler": "Not Completed" },
