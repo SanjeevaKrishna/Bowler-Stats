@@ -1,5 +1,14 @@
 {
   "matches": [
+     {
+      "matchId": "mi-vs-dc-2026-04-04",
+      "status": "completed",
+      "team1": "MI",
+      "team2": "DC",
+      "date": "2026-04-04",
+      "result": "DC WON BY 4 WICKETS",
+      "file": "mi-vs-dc-2026-04-04.json"
+    },
     {
       "matchId": "rr-vs-csk-2026-03-30",
       "status": "completed",
